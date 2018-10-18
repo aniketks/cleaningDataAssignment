@@ -1,0 +1,38 @@
+The following variable names were changed for greater readability. See http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones for original data and codebook. 
+
+bodyAccel_mean_X, bodyAccel_mean_Y, bodyAccel_mean_Z : Mean acceleration signal of the subject's body over X, Y, and Z axis, respectively, from the accelerometer. 
+bodyAccel_std_X, bodyAccel_std_Y, bodyAccel_std_Z : Standard deviation of the acceleration signal of the subject's body over X, Y, and Z axis, respectively, from the accelerometer.         
+gravityAccel_mean_X, gravityAccel_mean_Y, gravityAccel_mean_Z : Mean acceleration signal of gravity acting on the subject's body over X, Y, and Z axis, respectively, from the accelerometer.       
+gravityAccel_std_X, gravityAccel_std_Y, gravityAccel_std_Z : Standard deviation of the signal of gravity acting on the subject's body over X, Y, and Z axis, respectively, from the accelerometer.
+bodyAccelJerk_mean_X, bodyAccelJerk_mean_Y, bodyAccelJerk_mean_Z : Mean of the Jerk signal derived from a subject's body's accleration over X, Y, and Z axis, respectively, from the accelerometer.    
+bodyAccelJerk_std_X, bodyAccelJerk_std_Y, bodyAccelJerk_std_Z : Standard deviaton of the Jerk signal derived from a subject's body's accleration over X, Y, and Z axis, respectively, from the accelerometer.  
+bodyGyro_mean_X, bodyGyro_mean_Y, bodyGyro_mean_Z : Mean acceleration signal of the subject's body over X, Y, and Z axis, respectively, from the gyroscope.
+bodyGyro_std_X, bodyGyro_std_Y, bodyGyro_std_Z : Standard deviation of the acceleration signal of the subject's body over X, Y, and Z axis, respectively, from the gyroscope.
+bodyGyromJerk_mean_X, bodyGyromJerk_mean_Y, bodyGyromJerk_mean_Z : Mean of the Jerk signal derived from a subject's body's accleration over X, Y, and Z axis, respectively, from the gyroscope.
+bodyGyromJerk_std_X, bodyGyromJerk_std_Y, bodyGyromJerk_std_Z : Standard deviaton of the Jerk signal derived from a subject's body's accleration over X, Y, and Z axis, respectively, from the gyroscope.
+bodyAccelMagn_mean : Calculated magnitude of the mean of the acceleration on the subject's body from the acceloremeter across the three axis.
+bodyAccelMagn_std : Calculated magnitude of the standard deviaiton of the acceleration on the subject's body from the acceloremeter across the three axis.
+gravityAccelMagn_mean : Calculated magnitude of the mean of the acceleration of the gravity acting on the subject's body from the acceloremeter across the three axis.
+gravityAccelMagn_std : Calculated magnitude of the standard deviation of the acceleration of the gravity acting on the subject's body from the acceloremeter across the three axis.
+bodyAccelJerkMagn_mean : Calculated magnitude of the mean of jerk on the subject's body from the acceloremeter across the three axis.
+bodyAccelJerkMagn_std : Calculated magnitude of the standard deviation of  jerk on the subject's body from the acceloremeter across the three axis.
+bodyGyroMagn_mean : Calculated magnitude of the mean of the acceleration on the subject's body from the gyroscope across the three axis.
+bodyGyroMagn_std :  Calculated magnitude of the standard deviation of the acceleration on the subject's body from the gyroscope across the three axis.
+bodyGyroJerkMagn_mean : Calculated magnitude of the mean of jerk on the subject's body from the gyroscope across the three axis.
+bodyGyroJerkMagn_std : Calculated magnitude of the standard deviation of jerk on the subject's body from the gyroscope across the three axis.
+freqBodyAccel_mean_X, freqBodyAccel_mean_Y, freqBodyAccel_mean_Z : Frequency domain signals of the mean acceleration signal of the subject's body over X, Y, and Z axis, respectively, from the accelerometer.
+freqBodyAccel_std_X, freqBodyAccel_std_Y, freqBodyAccel_std_Z : Frequency domain signals of the standard deviation acceleration signal of the subject's body over X, Y, and Z axis, respectively, from the accelerometer.
+freqBodyAccelJerk_mean_X, freqBodyAccelJerk_mean_Y, freqBodyAccelJerk_mean_Z : Frequency domain signals of the mean of the Jerk signal derived from a subject's body's accleration over X, Y, and Z axis, respectively, from the accelerometer.
+freqBodyAccelJerk_std_X, freqBodyAccelJerk_std_Y, freqBodyAccelJerk_std_Z : Frequency domain signals of the standard deviation of the Jerk signal derived from a subject's body's accleration over X, Y, and Z axis, respectively, from the accelerometer.
+freqBodyGyro_mean_X, freqBodyGyro_mean_Y, freqBodyGyro_mean_Z : Frequency domain signals of the mean acceleration signal of the subject's body over X, Y, and Z axis, respectively, from the gyroscope.
+freqBodyGyro_std_X, freqBodyGyro_std_Y, freqBodyGyro_std_Z : Frequency domain signals of the standard deviation acceleration signal of the subject's body over X, Y, and Z axis, respectively, from the gyroscope.
+freqBodyAccelMagn_mean : Frequency domain signals of the calculated magnitude of the mean of the acceleration on the subject's body from the acceloremeter across the three axis.
+freqBodyAccelMagn_std : Frequency domain signals of the calculated magnitude of the standard deviation of the acceleration on the subject's body from the acceloremeter across the three axis.       
+freqBodyAccJerkMagn_mean : Frequency domain signals of the calculated magnitude of the mean of jerk on the subject's body from the acceloremeter across the three axis.
+freqBodyAccJerkMagn_std : Frequency domain signals of the calculated magnitude of the standard deviation of jerk on the subject's body from the acceloremeter across the three axis.
+freqBodyGyroMagn_mean : Frequency domain signals of the calculated magnitude of the mean of the acceleration on the subject's body from the gyroscope across the three axis.
+freqBodyGyroMagn_std : Frequency domain signals of the calculated magnitude of the standard deviation of the acceleration on the subject's body from the gyroscope across the three axis.
+freqBodyGyroJerkMagn_mean : Frequency domain signals of the calculated magnitude of the mean of jerk on the subject's body from the gyroscope across the three axis.
+freqBodyGyroJerkMagn_std : Frequency domain signals of the calculated magnitude of the standard deviation of jerk on the subject's body from the gyroscope across the three axis.
+subject : Identifier for a subject, out of 30 total subjects. 
+activity : The one of six activities performed by a subject. 
